@@ -17,4 +17,7 @@ public class Hello {
 		return "HelloPOST";
 	}
 
+	public void checkCommit() {
+		System.out.println("code committed to git");
+	}
 }
